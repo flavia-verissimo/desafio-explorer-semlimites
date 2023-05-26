@@ -1,6 +1,6 @@
-### desafio-explorer-semlimites
+# Desafio-explorer-Semlimites
 
-Neste stage 04 - Intensivão:
+Neste stage04 eu aprendi os seguintes recursos:
 
 - HTML
 - CSS
